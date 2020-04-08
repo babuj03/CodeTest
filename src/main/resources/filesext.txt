@@ -1,0 +1,10 @@
+c:/
+c:/babu
+c:/babu/images
+c:/babu/images/image1.jpg
+c:/babu/images/image2.jpg
+c:/babu/images/image3.jpg
+c:/babu/images/image4.jpg
+c:/babu/personal/bank.doc
+c:/babu/personal/ticket.doc
+
